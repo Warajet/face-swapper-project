@@ -4,8 +4,8 @@ Snoop Photo is the program that allows users to swop the face at real time with 
 # Inspiration
 This project has been inspired from a unique feature of facial swapping from a famous application called “SnapChat.”
 # Features
-Face Swapping
-Adding mask
+Face Swapping,
+Adding mask,
 ColorMapping
 
 
