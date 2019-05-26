@@ -7,5 +7,11 @@ This project has been inspired from a unique feature of facial swapping from a f
 Face Swapping,
 Adding mask,
 ColorMapping
+# Demonstration
 
+![Swapper14](https://user-images.githubusercontent.com/27640846/58383536-6b37e700-7fd8-11e9-9f7a-b427e8ffbf1a.png)
+
+![Swapper8](https://user-images.githubusercontent.com/27640846/58383538-71c65e80-7fd8-11e9-9366-2610debab1a5.png)
+
+![Swapper23](https://user-images.githubusercontent.com/27640846/58383554-a76b4780-7fd8-11e9-9398-a70b390def24.png)
 
